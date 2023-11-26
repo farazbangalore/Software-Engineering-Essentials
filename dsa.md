@@ -14,6 +14,6 @@
 6. String to Integer (atoi)
 
 ## Hard
-1. Median of Two Sorted Arrays
-2. Regular Expression Matching
+1. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+2. [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
 
