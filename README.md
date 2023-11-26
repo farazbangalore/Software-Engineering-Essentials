@@ -8,4 +8,4 @@ Welcome to Software Engineering Essentials! This repository is a curated collect
 * [Data Structures and Algorithms](dsa.md)
 * System Design
 * [Resume Writing and Tips](resume.md)
-* Job Portals
+* [Job Portals](job-portal.md)
